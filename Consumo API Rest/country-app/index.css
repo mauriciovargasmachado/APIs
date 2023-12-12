@@ -1,0 +1,39 @@
+body,html{
+    background-color: #091a7d;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+button{
+    background-color: #39bd88;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;font-size: 36px;
+
+}
+
+#maps{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
